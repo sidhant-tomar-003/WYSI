@@ -1,0 +1,15 @@
+argparse
+torch
+torchvision
+ultralytics
+opencv-python
+matplotlib
+Pillow
+requests
+numpy
+nltk
+scipy
+gensim
+ftfy
+regex
+tqdm
